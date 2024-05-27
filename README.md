@@ -13,11 +13,14 @@ Frameworks: React, Node.js, TensorFlow<br>
 <b>💼 Professional Background:</b><br>
 With a solid foundation in software development and a knack for solving complex problems, I thrive in collaborative environments. My journey spans from creating robust web applications to diving deep into data science projects.
 
-<b>🌟 Highlights:</b><br>
-Contributed to [Notable Open Source Project]
-Developed [Impressive Personal Project]
-Speaker at [Tech Conference/Event]
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishkumar632&show_icons=true&theme=radical)<br>
+<b>🌟 Project:</b><br>
+<ul>
+  <li>Farm-D-Care</li>
+  <li>Smart Charging Control System</li>
+  <li>House Price Prediction</li>
+</ul>
+<br>
+![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishkumar632&show_icons=true&theme=radical)<br>
 
 <b>📫 Let's Connect:</b><br>
 LinkedIn
