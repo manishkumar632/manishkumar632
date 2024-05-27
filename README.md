@@ -7,8 +7,8 @@ Cutting-edge AI and Machine Learning
 Open Source Projects that drive real-world impact
 
 <b>🛠️ Tech Stack:</b><br>
-Languages: Python, JavaScript, C++
-Frameworks: React, Node.js, TensorFlow
+Languages: Python, JavaScript, C++<br>
+Frameworks: React, Node.js, TensorFlow<br>
 
 <b>💼 Professional Background:</b><br>
 With a solid foundation in software development and a knack for solving complex problems, I thrive in collaborative environments. My journey spans from creating robust web applications to diving deep into data science projects.
