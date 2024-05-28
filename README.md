@@ -1,7 +1,7 @@
 <div>
-  <span style="font-size: 20px;">
+  <p style="font-size: 20px;">
     Hello, I'm
-  </span><span style="font-size: 32px;">
+  </p><span style="font-size: 32px;">
     Manish Kumar!
   </span>
 </div>
