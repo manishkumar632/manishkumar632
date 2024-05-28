@@ -19,8 +19,13 @@ With a solid foundation in software development and a knack for solving complex 
   <li>Smart Charging Control System</li>
   <li>House Price Prediction</li>
 </ul>
-<br>
+
 ![Manish's GitHub stats](https://github-readme-stats.vercel.app/api?username=manishkumar632&show_icons=true&theme=radical)<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)](https://git.io/streak-stats)<br>
+![Instagram Follow](https://img.shields.io/badge/Follow%20me%20on-Instagram-E4405F?style=social&logo=instagram&link=https://instagram.com/yourusername)
+
+
+
 
 <b>📫 Let's Connect:</b><br>
 LinkedIn
