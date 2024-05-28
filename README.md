@@ -24,7 +24,7 @@ With a solid foundation in software development and a knack for solving complex 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)](https://git.io/streak-stats)<br>
 ![Instagram Follow](https://img.shields.io/badge/Follow%20me%20on-Instagram-E4405F?style=social&logo=instagram&link=https://instagram.com/manishx404/)<br>
 
-![Text](https://images.pexels.com/photos/1379636/pexels-photo-1379636.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)<br>
+![Text](./text)<br>
 
 
 <b>📫 Let's Connect:</b><br>
