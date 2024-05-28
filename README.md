@@ -23,8 +23,7 @@ environments. My journey spans from creating robust web applications to diving d
 
 ![Manish's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=manishkumar632&show_icons=true&theme=radical)<br>
-[![GitHub
-Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)](https://git.io/streak-stats)<br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manishkumar632&theme=dark)<br>
 
 
 
