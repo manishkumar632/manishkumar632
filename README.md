@@ -1,7 +1,5 @@
 (https://manishkumar632.github.io/cool-github-profile/index.html)
-
-
-
+<br>
 👋 Hello, I'm <b>Manish Kumar</b>
 
 🚀 Passionate Developer | 💡 Innovator | 🌍 Tech Enthusiast
