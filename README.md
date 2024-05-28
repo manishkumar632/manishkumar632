@@ -1,4 +1,4 @@
-(https://manishkumar632.github.io/cool-github-profile/index.html)
+(https://manishkumar632.github.io/cool-github-profile/)<br>
 
 👋 Hello, I'm <b>Manish Kumar</b>
 
