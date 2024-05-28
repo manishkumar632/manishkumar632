@@ -1,8 +1,8 @@
 <div>
   <span>
-    <h4>Hello, I'm </h4>
+    Hello, I'm
   </span><span>
-    <h2>Manish Kumar!</h2>
+    Manish Kumar!
   </span>
 </div>
 
