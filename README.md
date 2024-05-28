@@ -1,10 +1,5 @@
-<div>
-  <p style="font-size: 20px;">
-    Hello, I'm
-  </p><span style="font-size: 32px;">
-    Manish Kumar!
-  </span>
-</div>
+# Hello, I'm <span style="font-size: larger;">Manish Kumar!</span>
+
 
 
 👋 Hello, I'm <b>Manish Kumar</b>
