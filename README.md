@@ -33,4 +33,3 @@ Follow](https://img.shields.io/badge/Follow%20me%20on-Instagram-E4405F?style=soc
 [LinkedIn](https://www.linkedin.com/in/manishkumar632/)<br>
 [Email](manishmu632@gmail.com)
 <br><br>
-<b>💬 Fun Fact:</b><br>
