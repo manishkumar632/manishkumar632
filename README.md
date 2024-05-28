@@ -1,5 +1,14 @@
-<link rel="stylesheet" href="style.css">
-<h1>Hello</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Hello</h1>
+</body>
+</html>
 👋 Hello, I'm <b>Manish Kumar</b>
 
 🚀 Passionate Developer | 💡 Innovator | 🌍 Tech Enthusiast
