@@ -1,7 +1,5 @@
 ![](https://github.com/manishkumar632/manishkumar632/blob/main/Hello%2C%20I%E2%80%99m%20Manish%20Kumar.gif)<br>
-![](https://www.canva.com/design/DAGGlpOz3BQ/mBoeGoWT_og_ISTd0ZJoHw/view)<br>
-
-🚀 Passionate Developer | 💡 Innovator | 🌍 Tech Enthusiast
+![](https://github.com/manishkumar632/manishkumar632/blob/main/TechEnthusiast.svg)<br>
 
 <b>🔭 Currently Exploring:</b><br>
 Cutting-edge AI and Machine Learning
