@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7aa2f7,100:bb9af7&height=170&section=header&text=Manish%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%26%20Flutter%20App%20Developer&descAlignY=58&descSize=18&animation=fadeIn" alt="header" />
+  <img width="100%" src="./assets/header.svg" alt="Manish Kumar - Full-Stack & Flutter App Developer" />
 </p>
 
 <p align="center">
@@ -108,5 +108,5 @@ class Manish extends Developer {
 <p align="center"><i>"Code. Learn. Ship. Repeat."</i> ⭐</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,100:7aa2f7&height=110&section=footer" alt="footer" />
+  <img width="100%" src="./assets/footer.svg" alt="footer" />
 </p>
