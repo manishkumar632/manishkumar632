@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 560" width="400" height="560" font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#24283b"/><stop offset="1" stop-color="#1a1b26"/></linearGradient>
+<linearGradient id="acc" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7aa2f7"/><stop offset="1" stop-color="#bb9af7"/></linearGradient>
+<linearGradient id="shine" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".18"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="cardclip"><rect x="70" y="120" width="260" height="380" rx="18"/></clipPath>
+</defs>
+<style>
+.swing{transform-origin:200px 0;animation:swing 3.2s ease-in-out infinite}
+@keyframes swing{0%{transform:rotate(9deg)}50%{transform:rotate(-9deg)}100%{transform:rotate(9deg)}}
+.sh{animation:sh 4s ease-in-out infinite}
+@keyframes sh{0%{transform:translateX(-320px)}60%,100%{transform:translateX(320px)}}
+.blink{animation:bl 1.6s step-end infinite}@keyframes bl{50%{opacity:0}}
+</style>
+<g class="swing">
+<path d="M185 0 L178 104 M215 0 L222 104" stroke="url(#acc)" stroke-width="12" stroke-linecap="round"/>
+<rect x="176" y="96" width="48" height="22" rx="5" fill="#a9b1d6"/><rect x="186" y="112" width="28" height="16" rx="3" fill="#565f89"/>
+<rect x="70" y="120" width="260" height="380" rx="18" fill="url(#bg)" stroke="#7aa2f7" stroke-width="2"/>
+<rect x="170" y="134" width="60" height="8" rx="4" fill="#1a1b26" stroke="#414868"/>
+<text x="200" y="160" text-anchor="middle" font-size="11" letter-spacing="3" fill="#7aa2f7">DEVELOPER ID</text>
+<circle cx="200" cy="230" r="60" fill="url(#acc)"/><text x="200" y="248" text-anchor="middle" font-size="48" font-weight="700" fill="#1a1b26">MK</text>
+<text x="200" y="328" text-anchor="middle" font-size="26" font-weight="700" fill="#c0caf5">Manish Kumar</text>
+<text x="200" y="354" text-anchor="middle" font-size="14" fill="#bb9af7">Full-Stack Developer · AI/ML</text>
+<line x1="100" y1="374" x2="300" y2="374" stroke="#414868"/>
+<text x="100" y="398" font-size="12" fill="#565f89">STACK</text><text x="300" y="398" text-anchor="end" font-size="12" fill="#a9b1d6">React · Node · Python</text>
+<text x="100" y="420" font-size="12" fill="#565f89">STATUS</text><text x="300" y="420" text-anchor="end" font-size="12" fill="#9ece6a">● Building<tspan class="blink">_</tspan></text>
+<g fill="#c0caf5"><rect x="100" y="440" width="3" height="30"/><rect x="106" y="440" width="1" height="30"/><rect x="110" y="440" width="2" height="30"/><rect x="115" y="440" width="1" height="30"/><rect x="119" y="440" width="3" height="30"/><rect x="125" y="440" width="2" height="30"/><rect x="130" y="440" width="1" height="30"/><rect x="134" y="440" width="1" height="30"/><rect x="138" y="440" width="3" height="30"/><rect x="144" y="440" width="1" height="30"/><rect x="148" y="440" width="2" height="30"/><rect x="153" y="440" width="3" height="30"/><rect x="159" y="440" width="1" height="30"/><rect x="163" y="440" width="2" height="30"/><rect x="168" y="440" width="1" height="30"/><rect x="172" y="440" width="3" height="30"/><rect x="178" y="440" width="1" height="30"/><rect x="182" y="440" width="2" height="30"/><rect x="187" y="440" width="2" height="30"/><rect x="192" y="440" width="1" height="30"/><rect x="196" y="440" width="3" height="30"/><rect x="202" y="440" width="1" height="30"/><rect x="206" y="440" width="2" height="30"/><rect x="211" y="440" width="1" height="30"/><rect x="215" y="440" width="3" height="30"/><rect x="221" y="440" width="1" height="30"/><rect x="225" y="440" width="1" height="30"/><rect x="229" y="440" width="2" height="30"/><rect x="234" y="440" width="3" height="30"/><rect x="240" y="440" width="1" height="30"/><rect x="244" y="440" width="2" height="30"/><rect x="249" y="440" width="1" height="30"/></g>
+<text x="200" y="488" text-anchor="middle" font-size="11" fill="#565f89">github.com/manishkumar632</text>
+<g clip-path="url(#cardclip)"><rect class="sh" x="70" y="120" width="120" height="380" fill="url(#shine)" transform="skewX(-20)"/></g>
+</g>
+</svg>
