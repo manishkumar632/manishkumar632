@@ -14,6 +14,8 @@
 
 ---
 
+<a href="https://github.com/manishkumar632"><img align="right" width="240" src="./assets/id-card.svg" alt="Manish Kumar developer ID card" /></a>
+
 ### 🧑‍💻 About me
 
 - 🔨 Currently building a **desktop app** and my **portfolio site** in TypeScript
