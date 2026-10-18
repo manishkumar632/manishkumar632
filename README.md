@@ -86,14 +86,10 @@ class Manish extends Developer {
 ### 🏆 Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=manishkumar632&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+  <img src="https://github-trophies.vercel.app/?username=manishkumar632&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
 </p>
 
 ### 📈 Contribution activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=manishkumar632&theme=tokyo-night&hide_border=true&area=true" />
-</p>
 
 <p align="center">
   <picture>
